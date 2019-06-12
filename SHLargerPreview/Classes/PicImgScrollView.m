@@ -113,7 +113,7 @@
     
 }
 
-*/
+
 /** 小图执行变大图的动画 */
 -(void)smallToDoScaleAnimation:(UIImage *)bigImg
 {

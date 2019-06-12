@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SHLargerPreview'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = '大图预览功能'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'suoxiaoxiao' => 'xiaoxiao.suo.ext@ai-ways.com' }
-  s.source           = { :git => 'git@github.com:suoxiaoxiao/SHLargerPreview.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/suoxiaoxiao/SHLargerPreview.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SHLargerPreview_Example' do
+  pod 'SHLargerPreview', :path => '../'
+
+  target 'SHLargerPreview_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

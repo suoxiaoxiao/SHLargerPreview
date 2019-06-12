@@ -27,3 +27,4 @@ suoxiaoxiao, xiaoxiao.suo.ext@ai-ways.com
 ## License
 
 SHLargerPreview is available under the MIT license. See the LICENSE file for more info.
+# SHLargerPreview

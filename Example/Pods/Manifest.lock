@@ -1,0 +1,25 @@
+PODS:
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SHLargerPreview (1.0.0):
+    - SDWebImage
+
+DEPENDENCIES:
+  - SHLargerPreview (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  SHLargerPreview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SHLargerPreview: 738b5c1b21c9a9959c4a0d3fd41e511fc3dd6af7
+
+PODFILE CHECKSUM: 9de073a9646d8bd4270065051d8f92ca0f934bc0
+
+COCOAPODS: 1.7.0.beta.3

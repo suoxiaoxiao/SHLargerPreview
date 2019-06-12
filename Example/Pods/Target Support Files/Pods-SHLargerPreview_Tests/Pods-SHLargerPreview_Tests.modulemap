@@ -1,0 +1,6 @@
+framework module Pods_SHLargerPreview_Tests {
+  umbrella header "Pods-SHLargerPreview_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

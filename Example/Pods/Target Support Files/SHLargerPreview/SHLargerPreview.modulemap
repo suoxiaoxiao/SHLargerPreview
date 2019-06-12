@@ -1,0 +1,6 @@
+framework module SHLargerPreview {
+  umbrella header "SHLargerPreview-umbrella.h"
+
+  export *
+  module * { export * }
+}
